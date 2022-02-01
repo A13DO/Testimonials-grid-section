@@ -174,8 +174,8 @@ body {
 @media (max-width:375px) {
     body {
         max-width: 100%;
-/*         height: 100%;
-        margin: 100px auto; */
+        height: 100%;
+        margin: 100px auto;
     }
     .users {
         display: grid;
@@ -199,9 +199,8 @@ body {
         height: 90px;
     }
     .attribution{
-/*         top: 253%;
-        font-size: 11.5px; */
-        display:none;
+        top: 253%;
+        font-size: 11.5px;
     }
 }
 
