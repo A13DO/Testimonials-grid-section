@@ -139,6 +139,8 @@ body {
 .user__three .user--text-1,
 .user__three .user--text-2 {
     width: 70%;
+}
+.user__three .user--text-2{
     opacity: 70%;
 }
 .user__four .user--text-2 {
